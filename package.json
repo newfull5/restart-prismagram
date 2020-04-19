@@ -1,0 +1,11 @@
+{
+  "name": "restart-prismagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/newfull5/restart-prismagram",
+  "author": "newfull5 <dhtocks@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
