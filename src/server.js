@@ -12,3 +12,5 @@ server.express.use(logger("dev"));
 server.start({ port: PORT }, () =>
   console.log(`✅ Server running on http://localhost:${PORT}`)
 );
+
+console.log(`https://us1.prisma.sh/dhtocks-a4991f/restart-prismagram/dev`);
