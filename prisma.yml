@@ -1,0 +1,6 @@
+endpoint: https://us1.prisma.sh/dhtocks-a4991f/restart-prismagram/dev
+datamodel: datamodel.prisma
+
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client/
